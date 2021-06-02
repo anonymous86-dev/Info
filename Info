@@ -1,10 +1,10 @@
     "name": "USD SMART",
     "situs web": "https://usdsmart.com/",
     "description": "USDs adalah aset Digital untuk mata uang yang stabil dengan Binance Smart Chain Network #BSC For Smart Project.",
-    "explorer": "https://bscscan.com/token/0x303de4bdb189b951f875eb4a8ecde2985138161e",
+    "explorer": "https://bscscan.com/token/0x303dE4bdb189B951F875eB4A8ECDe2985138161e",
     "type": "BEP20",
     "symbol": "USDs",
     "desimal": 18,
     "status": "aktif",
-    "id": "0x303de4bdb189b951f875eb4a8ecde2985138161e"
+    "id": "0x303dE4bdb189B951F875eB4A8ECDe2985138161e"
 } 
